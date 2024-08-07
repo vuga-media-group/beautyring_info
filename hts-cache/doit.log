@@ -1,0 +1,8 @@
+https://beautyring.info -O /Volumes/EXT2TBSSD/WP_Static_Site_Migration_to_GIT/httrack/beautyring_info "+*. beautyring.info/*" -v
+File generated automatically on Wed, 07 Aug 2024 18:52:10, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
